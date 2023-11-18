@@ -5,6 +5,8 @@
       <Path>angular-cv-portfolio</Path>
     </attachedFolders>
     <explicitIncludes />
-    <explicitExcludes />
+    <explicitExcludes>
+      <Path>angular-cv-portfolio/node_modules</Path>
+    </explicitExcludes>
   </component>
 </project>
